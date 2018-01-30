@@ -12,7 +12,7 @@ cases.
 The simpliest way to install iptables is by the composer.
 
 ```
-composer require plugowski/iptables
+composer require 3jy/iptables
 ```
 
 Of course you can also download that repository and load all classes from src into your project (don't forget to load all required files).
