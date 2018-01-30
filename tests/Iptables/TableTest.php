@@ -2,10 +2,10 @@
 namespace Iptables;
 
 use PHPUnit_Framework_TestCase;
-use plugowski\iptables\Chain;
-use plugowski\iptables\Rule;
-use plugowski\iptables\Table\Table;
-use plugowski\iptables\Table\TableFactory;
+use ejy\iptables\Chain;
+use ejy\iptables\Rule;
+use ejy\iptables\Table\Table;
+use ejy\iptables\Table\TableFactory;
 
 /**
  * Class TableTest

@@ -1,8 +1,9 @@
 <?php
-namespace plugowski\iptables;
+namespace ejy\iptables;
 
 /**
  * Class Rule
+ * @package ejy\iptables
  */
 class Rule
 {

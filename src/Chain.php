@@ -1,8 +1,9 @@
 <?php
-namespace plugowski\iptables;
+namespace ejy\iptables;
 
 /**
  * Class Chain
+ * @package ejy\iptables
  */
 class Chain
 {

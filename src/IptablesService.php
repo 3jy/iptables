@@ -1,10 +1,11 @@
 <?php
-namespace plugowski\iptables;
+namespace ejy\iptables;
 
-use plugowski\iptables\Table\Table;
+use ejy\iptables\Table\Table;
 
 /**
- * Class Iptables
+ * Class IptablesService
+ * @package ejy\iptables
  */
 class IptablesService
 {

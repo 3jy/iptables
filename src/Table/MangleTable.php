@@ -1,9 +1,9 @@
 <?php
-namespace plugowski\iptables\Table;
+namespace ejy\iptables\Table;
 
 /**
  * Class MangleTable
- * @package plugowski\iptables\Table
+ * @package ejy\iptables\Table
  */
 class MangleTable extends Table
 {

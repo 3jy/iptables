@@ -1,12 +1,12 @@
 <?php
-namespace plugowski\iptables\Table;
+namespace ejy\iptables\Table;
 
-use plugowski\iptables\Chain;
-use plugowski\iptables\Command;
+use ejy\iptables\Chain;
+use ejy\iptables\Command;
 
 /**
  * Class Table
- * @package plugowski\iptables\Table
+ * @package ejy\iptables\Table
  */
 class Table
 {

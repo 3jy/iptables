@@ -1,9 +1,9 @@
 <?php
-namespace plugowski\iptables\Table;
+namespace ejy\iptables\Table;
 
 /**
  * Class SecurityTable
- * @package plugowski\iptables\Table
+ * @package ejy\iptables\Table
  */
 class SecurityTable extends Table
 {

@@ -1,9 +1,9 @@
 <?php
-namespace plugowski\iptables;
+namespace ejy\iptables;
 
 /**
  * Class Command
- * @package plugowski\Iptables
+ * @package ejy\iptables
  */
 class Command
 {

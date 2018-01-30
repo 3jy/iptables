@@ -1,9 +1,9 @@
 <?php
-namespace plugowski\iptables\Table;
+namespace ejy\iptables\Table;
 
 /**
  * Class RawTable
- * @package plugowski\iptables\Table
+ * @package ejy\iptables\Table
  */
 class RawTable extends Table
 {

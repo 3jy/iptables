@@ -2,9 +2,9 @@
 namespace Iptables;
 
 use PHPUnit_Framework_TestCase;
-use plugowski\iptables\IptablesService;
-use plugowski\iptables\Table\Table;
-use plugowski\iptables\Table\TableFactory;
+use ejy\iptables\IptablesService;
+use ejy\iptables\Table\Table;
+use ejy\iptables\Table\TableFactory;
 
 /**
  * Class IptablesTest

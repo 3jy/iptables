@@ -2,7 +2,7 @@
 namespace Iptables;
 
 use PHPUnit_Framework_TestCase;
-use plugowski\iptables\Rule;
+use ejy\iptables\Rule;
 
 /**
  * Class RuleTest
