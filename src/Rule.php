@@ -70,6 +70,46 @@ class Rule
     }
 
     /**
+     * @return string
+     */
+    public function getTarget()
+    {
+        return $this->target;
+    }
+
+    /**
+     * @return int
+     */
+    public function getProtocol()
+    {
+        return $this->protocol;
+    }
+
+    /**
+     * @return null|string
+     */
+    public function getSource()
+    {
+        return $this->source;
+    }
+
+    /**
+     * @return null|string
+     */
+    public function getDestination()
+    {
+        return $this->destination;
+    }
+
+    /**
+     * @return array|string
+     */
+    public function getOptions()
+    {
+        return $this->options;
+    }
+
+    /**
      * @param string $options
      */
     private function parseOptions($options)
